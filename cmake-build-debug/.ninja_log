@@ -1,0 +1,9 @@
+# ninja log v5
+4	459	1698884870301961115	CMakeFiles/ThreadImplementation.dir/IncCounter.cpp.o	141c8297088e529d
+4	552	1698884870401675247	CMakeFiles/ThreadImplementation.dir/CounterTest.cpp.o	defe31a7fbf016b0
+3	297	1698939978637259858	CMakeFiles/ThreadImplementation.dir/Counter.cpp.o	6945fbd678561ecf
+5	227	1698884870078888573	CMakeFiles/ThreadImplementation.dir/Observer.cpp.o	c3b15ee0db2f79a1
+4	555	1698939128576949221	CMakeFiles/ThreadImplementation.dir/Subject.cpp.o	87b07f002f650c7b
+297	331	1698939978672174663	ThreadImplementation	432099e6fe49a5b9
+2	554	1698938747410630719	CMakeFiles/ThreadImplementation.dir/main.cpp.o	5252d952b3d78b67
+3	553	1698938747409182293	CMakeFiles/ThreadImplementation.dir/MyObserver.cpp.o	c76a3bad35524ba5

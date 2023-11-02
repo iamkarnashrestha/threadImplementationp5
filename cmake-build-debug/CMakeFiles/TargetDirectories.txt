@@ -1,0 +1,3 @@
+/Users/karna/Desktop/ThreadImplementation/cmake-build-debug/CMakeFiles/ThreadImplementation.dir
+/Users/karna/Desktop/ThreadImplementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karna/Desktop/ThreadImplementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
